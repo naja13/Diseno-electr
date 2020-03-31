@@ -15,7 +15,7 @@
     "mdbreact": "^4.13.0",
     "moment": "^2.24.0",
     "mysql": "^2.16.0",
-    "next": "^8.1.0",
+    "next": "^9.3.2",
     "prop-types": "^15.7.2",
     "rc-datetime-picker": "^1.6.1",
     "react": "^16.8.6",
